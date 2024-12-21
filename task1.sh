@@ -1,5 +1,5 @@
-mkdir lab01
-cd lab1
+mkdir lab0
+cd lab0
 echo "Способности Copycat Fake Tears Flail Low Lick Rock Throw
 Slam Faint Attack Rock Tomb Block Rock Slide Mimic Sucker Punch
 Double-Edge
