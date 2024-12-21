@@ -1,6 +1,6 @@
 mkdir lab0
 cd lab0
-echo "Способности Copycat Fake Tears Flail Low Lick Rock Throw
+echo -e "Способности Copycat Fake Tears Flail Low Lick Rock Throw
 Slam Faint Attack Rock Tomb Block Rock Slide Mimic Sucker Punch
 Double-Edge
 " > bonsly4
@@ -11,7 +11,7 @@ mkdir dodrio
 mkdir spoink
 mkdir chinchou
 cd ..
-echo "Тип диеты Carnivore" > sandile7
+echo -e "Тип диеты Carnivore" > sandile7
 mkdir volcarona4
 cd volcarona4
 mkdir lumineon
@@ -27,4 +27,4 @@ mkdir munchlax
 mkdir dusclops
 mkdir conkeldurr
 cd ..
-echo "Живёт Freshwater Marsh" > wooper8
+echo -e "Живёт Freshwater Marsh" > wooper8
