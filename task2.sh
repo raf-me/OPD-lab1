@@ -1,5 +1,5 @@
 chmod 440 bonsly4
-chmod 312 claydol6
+chmod -wx--x-w- claydol6
 cd claydol6
 chmod 577 pikachu
 chmod 577 dodrio
