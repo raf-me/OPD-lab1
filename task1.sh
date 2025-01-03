@@ -1,9 +1,6 @@
 mkdir lab0
 cd lab0
-echo -e "Способности Copycat Fake Tears Flail Low Lick Rock Throw
-Slam Faint Attack Rock Tomb Block Rock Slide Mimic Sucker Punch
-Double-Edge
-" > bonsly4
+echo -e "Способности Copycat Fake Tears Flail Low Lick Rock Throw\nSlam Faint Attack Rock Tomb Block Rock Slide Mimic Sucker Punch\nDouble-Edge" > bonsly4
 mkdir claydol6
 cd claydol6
 mkdir pikachu
