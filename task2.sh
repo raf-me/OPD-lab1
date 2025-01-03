@@ -18,7 +18,7 @@ chmod 711 shieldon
 cd ..
 cd wobbuffet7
 chmod 751 munchlax
-chmod 357 dusclops
+chmod u+wx,g+rx,o+rwx dusclops
 chmod 357 munchlax
 cd ..
 chmod 046 wooper8
