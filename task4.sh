@@ -1,4 +1,4 @@
-cat zubat | wc -c > /tmp/zubat_char_count 2>&1
+cat zubat 2>&1| wc -c > /tmp/zubat_char_count 2>&1
 cd ..
 grep -r "wo" lab0
 cd lab0
