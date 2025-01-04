@@ -11,11 +11,10 @@ chmod 363 volcarona4
 cd volcarona4
 chmod 733 lumineon
 chmod 400 zubat
-chmod 755 volcarona4
-cd volcarona4
 chmod 754 hariyama
 chmod 711 shieldon
 cd ..
+chmod 363 volcarona4
 cd wobbuffet7
 chmod 751 munchlax
 chmod u+wx,g+rx,o+rwx dusclops
